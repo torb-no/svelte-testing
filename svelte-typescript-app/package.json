@@ -23,6 +23,9 @@
     "@tsconfig/svelte": "^1.0.0"
   },
   "dependencies": {
+    "@types/matter-js": "^0.14.5",
+    "matter-js": "^0.14.2",
+    "pixi.js": "^5.3.3",
     "sirv-cli": "^1.0.0"
   }
 }
